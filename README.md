@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
-**fangjuntao/fangjuntao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 方俊涛 
+# 自我介绍
+1. 姓名： 方俊涛
+2. 性别： 男
+3. 先就读学校： 广东工业大学
